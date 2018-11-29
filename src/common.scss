@@ -1,0 +1,11 @@
+
+$gentlblue: "#1c64da";
+@font-face {
+    font-family: 'my-font';
+    src: url('../static/fonts/digifaw.ttf') format('ttf');
+    font-weight: 600;
+}
+.hello {
+    color: red;
+    font-family: "MyFont";
+}

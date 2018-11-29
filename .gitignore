@@ -1,0 +1,15 @@
+.idea/
+node_modules/
+dist/
+.svn/
+.cache/
+.DS_Store
+.vscode
+npm-debug.log
+selenium-debug.log
+test/unit/coverage/
+.tern-port
+.jsbeautifyrc
+yarn-error.log
+package-lock.json
+dist.zip
